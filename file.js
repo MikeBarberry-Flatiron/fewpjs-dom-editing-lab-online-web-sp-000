@@ -1,3 +1,3 @@
-var foo = "bar"
+var foo
 
 console.log(typeof foo)
