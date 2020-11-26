@@ -11,3 +11,5 @@ console.log(pi)
 var pi = 3
 
 console.log(pi)
+
+console.log(pi)
