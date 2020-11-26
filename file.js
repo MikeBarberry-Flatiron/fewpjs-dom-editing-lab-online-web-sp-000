@@ -4,11 +4,11 @@ var foo = () => {
 
 console.log(typeof foo)
 
-var pi = "three"
+const pi = "three"
 
 console.log(pi)
 
-pi = 3
+const = 3
 
 console.log(pi)
 
