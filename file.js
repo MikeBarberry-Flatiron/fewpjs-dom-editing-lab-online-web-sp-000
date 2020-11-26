@@ -8,7 +8,7 @@ var pi = "three"
 
 console.log(pi)
 
-var pi = 3
+pi = 3
 
 console.log(pi)
 
